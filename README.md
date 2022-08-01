@@ -37,6 +37,19 @@ To run the application in your local host, you should type in your terminal the 
 
 ## Mock-Up
 
+Text editor App installed:
+![App installed](Assets/app%20installed.png)
+
+You can see a `manifest.json` file:
+![manifest.json](./Assets/Manifest.png)
+
+You can see the application's registered service worker:
+
+![srv-wrk](./Assets/service%20worker.png)
+
+You can see the IndexedDB storage:
+
+![indexedDB](Assets/index%20db.png)
 
 ## License
 
