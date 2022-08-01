@@ -38,9 +38,11 @@ To run the application in your local host, you should type in your terminal the 
 ## Mock-Up
 
 Text editor App installed:
+
 ![App installed](Assets/app%20installed.png)
 
 You can see a `manifest.json` file:
+
 ![manifest.json](./Assets/Manifest.png)
 
 You can see the application's registered service worker:
@@ -91,7 +93,7 @@ You can send an e-mail to Jorgecdl96@gmail.com for any additional question.
 
 ## Application Deployed
 
-You can see this app deployed in Heroku in link below:
+You can see this app deployed in Heroku at link below:
 
 https://txteditor-pwa.herokuapp.com/
 
